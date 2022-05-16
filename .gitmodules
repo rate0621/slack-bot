@@ -1,0 +1,4 @@
+[submodule "tools"]
+	path = tools
+	url = https://github.com/rate0621/chat-tools.git
+	branch = master
