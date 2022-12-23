@@ -1,0 +1,12 @@
+Slack-bot
+======
+
+## 起動の仕方
+
+```
+git clone git@github.com:rate0621/slack-bot.git
+cd slack-bot
+python app.py
+```
+
+なお、事前に.envに記載されている環境変数を設定しておくこと
